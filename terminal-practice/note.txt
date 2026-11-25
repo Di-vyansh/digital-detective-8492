@@ -1,0 +1,1 @@
+Terminal practice log for Divyansh Pal - Exploring shell utilities and file permissions on macOS.
