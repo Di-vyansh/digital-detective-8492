@@ -9,7 +9,7 @@ The objective of Mission 2 was to develop practical fluency with the Unix comman
 
 | Command / Operation | Description of Operation | Actual Observation in macOS Terminal |
 | :--- | :--- | :--- |
-| **`pwd`** (Print Working Directory) | Prints the full absolute path of the current directory. | Output: `/Users/divyansh/Desktop/Mini Google/digital-detective-8492` |
+| **`pwd`** (Print Working Directory) | Prints the full absolute path of the current directory. | Output: `/Users/divyansh/Desktop/digital-detective-8492` |
 | **`ls`** (List Directory Contents) | Lists files and folders contained in the working location. | Output showed mission folders: `mission-00-setup`, `mission-01-computer-basics`, `README.md`, etc. |
 | **`cd`** (Change Directory) | Shifts the shell's active location to a target path. | Successfully navigated into `mission-00-setup/` and returned to root via `cd ..`. |
 | **`mkdir`** (Make Directory) | Creates a new directory at the specified target path. | Executed `mkdir -p terminal-practice`, creating an isolated sandbox folder. |

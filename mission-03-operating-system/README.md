@@ -41,7 +41,7 @@ A **process** is an active, running instance of a computer program that has been
   - The complete, unambiguous location of a file or directory starting from the root of the file system (`/`).
   - It remains valid regardless of the shell's current working directory.
   - *Example from my machine*:  
-    `/Users/divyansh/Desktop/Mini Google/digital-detective-8492/mission-03-operating-system/README.md`
+    `/Users/divyansh/Desktop/digital-detective-8492/mission-03-operating-system/README.md`
 - **Relative Path**:
   - A location specified in relation to the shell's current working directory.
   - Uses `.` to denote the current directory and `..` to reference the parent directory.
