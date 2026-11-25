@@ -3,8 +3,9 @@
 ## Independent Learning & Computer Systems Assignment
 
 ### Student Information
+
 -**Name**: Divyansh Pal
-**USN**: 2392608492
+-**USN**: 2392608492
 - **Campus / Institution**: NST, S-VYASA University
 - **GitHub Username**: [Di-vyansh](https://github.com/Di-vyansh)
 - **Repository Name**: digital-detective-8492
