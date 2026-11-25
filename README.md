@@ -71,3 +71,15 @@ cd mission-05-numbers-data
 python3 number_converter.py
 ```
 The program accepts any positive base-10 integer (such as `13`, `25`, `42`, or `255`) and outputs verified representations in Binary, Hexadecimal, and Octal formats with clean formatting and bit-length metrics.
+
+---
+
+## My Learning
+Completing the **Digital Detective** independent learning assignment provided an invaluable bridge connecting abstract computer science theory with concrete, hands-on engineering execution:
+- **Terminal Autonomy**: I gained complete confidence operating in a Unix terminal environment, utilizing pipelines (`|`), relative paths, and package management without relying on restrictive graphical user interfaces.
+- **Hardware-Software Synthesis**: Tracing operations through the IPOS cycle clarified how physical hardware peripherals interact via interrupts, memory buses, and CPU registers to execute instructions.
+- **System Architecture & Protection**: Investigating process scheduling, Process IDs (PIDs), and Unix permission models (`rwxr-xr-x`) illuminated how operating systems maintain security and stability across multi-user environments.
+- **Execution Models**: Contrasting compiled binaries against interpreted runtimes demystified performance tradeoffs across high-performance systems and scripting tools.
+- **Data Foundations**: Calculating binary and hexadecimal representations manually and verifying them programmatically solidified my understanding of how microprocessors store quantitative data and UTF-8 encoded text.
+- **Version Control Discipline**: Practicing feature branching, atomic commits, and Pull Request workflows reinforced the collaborative standards essential for modern software engineering teams.
+- **Networking Mechanics**: Diagnosing DNS lookups, tracing packet switching, and breaking down the HTTP/HTTPS lifecycle revealed the intricate sequence of events that powers the modern global Internet.
